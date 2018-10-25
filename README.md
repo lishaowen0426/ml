@@ -1,1 +1,39 @@
-#ml
+
+
+a0:
+https://github.com/lishaowen0426/ml/blob/master/a0/doc/cpsc-340-assignment.pdf
+
+test of basic math knowledge: linear algebra, matrix operations, multivariable derivatives, basic data structure
+
+
+
+a1:
+https://github.com/lishaowen0426/ml/blob/master/a1/doc/cpsc-340-a1.pdf
+
+data exploration(get statistics, data visualization)
+decision tree, knn, condensed nearest neighbours
+
+a2:
+https://github.com/lishaowen0426/ml/blob/master/a2/doc/a2.pdf
+
+naive Bayes, Laplace smoothing, random forest, clustering/density based clustering, vector quantization
+
+a3:
+https://github.com/lishaowen0426/ml/tree/master/a3
+
+robust regression, gradient descent, linear regrssion and nonliner bases, non-parametric bases, cross-validation
+
+a4:
+https://github.com/lishaowen0426/ml/blob/master/a4/doc/a4.pdf
+
+convex function, logistic regressioin with L2/L1/L0 Regularization, multi-class logistic(one-vs-all,softmax), running cost
+
+a5:
+https://github.com/lishaowen0426/ml/blob/master/a5/doc/a5.pdf
+
+MAP estimation, PCA and its application in data visualization,data compression, Robust PCA,multi-dimensional scaling, ISOMAP
+
+a6:
+https://github.com/lishaowen0426/ml/blob/master/a6/doc/a6.pdf
+
+open-end mini project for application of all learned including basic use of neural network
