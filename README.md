@@ -1,3 +1,9 @@
+Here is the list of what I have done in this course, the link points to a report which basically includes everything. 
+
+Stuff written by me are in color blue.
+
+Actual implementation are under the code directory of every assignment.
+
 
 
 a0:
