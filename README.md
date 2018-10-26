@@ -2,7 +2,7 @@ Here is the list of what I have done in this course, the link points to a report
 
 Stuff written by me are in color blue.
 
-Actual implementation are under the code directory of every assignment.
+Actual implementations are under the code directory of every assignment.
 
 
 
